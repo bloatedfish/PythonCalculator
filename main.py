@@ -11,9 +11,6 @@ Screen.resizable(False, False)
 Screen.configure(bg=color)
 Screen.title("Calculator")
 
-
-# Methods
-
 # addtoTextBox(input)
 #
 # Takes a string input.
